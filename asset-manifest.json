@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pitstop-transport/static/css/main.2f4ac581.css",
-    "main.js": "/pitstop-transport/static/js/main.3a0252c2.js",
+    "main.css": "/pitstop-transport/static/css/main.e6c13ad2.css",
+    "main.js": "/pitstop-transport/static/js/main.36e0131c.js",
     "static/js/453.20cbed1f.chunk.js": "/pitstop-transport/static/js/453.20cbed1f.chunk.js",
     "index.html": "/pitstop-transport/index.html",
-    "main.2f4ac581.css.map": "/pitstop-transport/static/css/main.2f4ac581.css.map",
-    "main.3a0252c2.js.map": "/pitstop-transport/static/js/main.3a0252c2.js.map",
+    "main.e6c13ad2.css.map": "/pitstop-transport/static/css/main.e6c13ad2.css.map",
+    "main.36e0131c.js.map": "/pitstop-transport/static/js/main.36e0131c.js.map",
     "453.20cbed1f.chunk.js.map": "/pitstop-transport/static/js/453.20cbed1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f4ac581.css",
-    "static/js/main.3a0252c2.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.36e0131c.js"
   ]
 }
