@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+  color: red;
+}
+
+.animate-fadeOut {
+  animation: fadeOut 1s ease-in-out forwards;
+  animation-delay: 1.5s;
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
